@@ -2,15 +2,15 @@
 <h3 align="center">A dedicated Web Developer aspiring to become a proficient **Full-Stack Developer**.</h3>
 
 
-🌱  I’m currently learning java script
+  <p>🌱 I’m currently learning java script</p>
 
- 🤔 I’m looking for help with getting feedback on my code or architectural design decisions.
+  <p>🤔 I’m looking for help with getting feedback on my code or architectural design decisions.</p>
  
- 💬 Ask me about web development,
+  <p>💬 Ask me about web development</p>
  
- 📫 How to reach me: mynatsamy@gmail.com
+  <p>📫 How to reach me: mynatsamy@gmail.com</p>
 
- ⚡ Fun fact: I love to solve coding puzzles in my free time.
+ <p>⚡ Fun fact: I love to solve coding puzzles in my free time.</p>
 
 <h3 align:left>Languages and Tools:</h3>
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,linux,cs,python,git,github" />
