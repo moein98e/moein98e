@@ -12,7 +12,9 @@
 
  <p>⚡ Fun fact: I love to solve coding puzzles in my free time.</p>
 
-<h3 align:left>Languages and Tools:</h3>
+---
+
+<h3 align:left>:hammer_and_wrench: Languages and Tools :</h3>
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,linux,cs,python,git,github" />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moein98e)](https://github.com/moein98e/github-readme-stats)
