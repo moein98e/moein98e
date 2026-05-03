@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm mohamad Moein Etesami</h1>
-<h3 align="center">A dedicated Web Developer aspiring to become a proficient **Full-Stack Web Developer**.</h3>
+<h3 align="center">Striving to become a senior web developer.</h3>
 
 
-  <p>🌱 I’m currently learning java script</p>
+  <p>🌱 I’m currently learning c#</p>
 
   <p>🤔 I’m looking for help with getting feedback on my code or architectural design decisions.</p>
  
